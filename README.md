@@ -2,7 +2,7 @@
 
 This project is focused on predicting market movements with an emphasis on the S&P 500 index, utilizing Python and various data science techniques to uncover insights and forecast market trends. The project involves fetching real-time market data, cleaning, and preprocessing this data for analysis, and employing visualization techniques to identify patterns and trends.
 
-The detailed analysis can be found in the [SP500Market_Prediction](./).
+The detailed analysis can be found in the [SP500 Market Prediction](./) folder.
 
 This market prediction endeavor was conducted as part of an ongoing exploration into financial market analysis, aimed at leveraging machine learning for better understanding market dynamics.
 
